@@ -1,5 +1,6 @@
 # WebsiteSaver
 *To use the app:
+must have follow these lines to use it.
 *First you have to register and create a password.
 *Then you return to the login page.
 *Here you can login, change your password or enter the settings.
